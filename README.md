@@ -6,7 +6,7 @@ Unity3D の標準ライブラリとは異なる方法で、 Xorshift を使っ�
 ## 主な機能
 
 - C# .NET のみで動作するコードが含まれます。
-- Unity 標準ライブラリの Random に実装される Range, OnUnitSphere, InsideUnitSphere に該当するメソッドが実装されています。
+- Unity 標準ライブラリの Random に実装される range, onUnitSphere などに該当するメソッドが実装されています。
     - Value,
     - Range,
     - OnUnitCircle
